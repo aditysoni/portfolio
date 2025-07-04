@@ -96,7 +96,7 @@ export const Contact = () => {
                 <span className="group-hover:text-green-600">Twitter</span>
               </a>
               <a
-                href="https://instagram.com/yourprofile"
+                href="https://instagram.com/adityasoni__10"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-3 text-gray-700 hover:text-green-600 transition-all"
