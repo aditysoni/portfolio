@@ -60,8 +60,8 @@ export const Projects = () => {
     {
       title: "NFT Marketplace",
       description:
-        "Full-featured NFT marketplace with creator launchpad, batch minting, royalty management, and advanced filtering tools.",
-      metrics: { nfts: "10K+", creators: "500+", volume: "$1.2M" },
+      "A utility-driven NFT marketplace enabling creators to offer exclusive content, gated experiences, and on-chain perks to NFT holders. Designed to enhance engagement and reward ownership.",
+      metrics: { nfts: "10K+"},
       category: "NFT",
     },
     {
@@ -72,10 +72,9 @@ export const Projects = () => {
       category: "Tokenization",
     },
     {
-      title: "Green Energy Trading",
-      description:
-        "Platform for users to trade renewable energy, equipment, and land for generation and distribution.",
-      metrics: { users: "6K+", assets: "500+" },
+      title: "GoGreen",
+        "A decentralized Platform for users to trade renewable energy, equipment, and land for generation and distribution of energy resources" ,
+      metrics: { "Listed assets": "500+" },
       category: "Tokenization",
     },
   ];
