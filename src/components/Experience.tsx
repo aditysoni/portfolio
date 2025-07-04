@@ -24,11 +24,12 @@ export const Experience = () => {
       description:
         "Leading development of next-generation DeFi on-chain fund management vaults and perp dex . Speaheded smart contracts creation for the ICO , vault management and per dex .",
       achievements: [
-        "Architected ICO sale with developing smart contracts to frontend creation and integrating blockchin and kyc feature (Sumsub). ",
-        "Developed and tested smart contracts in cosmwasm for the portfolio managemenet system on Injective chain. ",
-        "Engineered smart contracts in solana for meme tokens using the Solana's SPL token standarad . ",
-        "Engineered smart contracts for perp dex with infinte listing in solidity getting $ 5B+ volume  with 100k + users. ",
-        "Designed and implemented microservices in Golang for (Price Keeper, ADL Handler and Liquidation Handler) ."
+        "Architected ICO sale with developing smart contracts to frontend creation and integrating blockchain and kyc feature (Sumsub) ",
+        "Developed and tested smart contracts in cosmwasm for the portfolio managemenet system on Injective chain",
+        "Engineered smart contracts in solana for meme tokens using the Solana's SPL token standarad  ",
+        "Engineered smart contracts for perp dex with infinte listing in solidity getting $ 5B+ volume  with 100k + users ",
+        "Designed and implemented microservices in Golang for (Price Keeper, ADL Handler and Liquidation Handler ",
+        "Integrated Privy to implement ERC-4337 account abstraction, enabling seamless user onboarding with gasless transactions and email-based wallet creation. "
         
       ],
       technologies: ["Solidity", "Solana", "Cosmwasm", "TypeScript", "React", "AWS", "Golang" , "Subgraphs ", "Privy"],
