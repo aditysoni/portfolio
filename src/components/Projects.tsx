@@ -73,9 +73,10 @@ export const Projects = () => {
     },
     {
       title: "GoGreen",
-        "A decentralized Platform for users to trade renewable energy, equipment, and land for generation and distribution of energy resources" ,
-      metrics: { "Listed assets": "500+" },
-      category: "Tokenization",
+      description:
+      "A decentralized Platform for users to trade renewable energy, equipment, and land for generation and distribution of energy resources" ,
+        metrics: { assets: "100+"},
+        category: "Tokenization",
     },
   ];
 
