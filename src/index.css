@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-deep-gradient {
+
+  /* background-image: linear-gradient(to bottom right, #0f0f1a, #1a1c2b); */
+  background-repeat: no-repeat;
+  background-color: whitesmoke;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-marquee {
+  display: inline-block;
+  animation: marquee 30s linear infinite;
+}
