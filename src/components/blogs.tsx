@@ -119,7 +119,7 @@ export const BlogSection = () => {
         {/* Read All on Medium Button */}
         <div className="mt-12 text-center">
           <a
-            href="https://medium.com/@yourprofile"
+            href="https://medium.com/@universalPhoton"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 bg-black text-white font-mono rounded-full hover:bg-gray-800 transition-all duration-300 shadow"
