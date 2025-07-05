@@ -24,7 +24,7 @@ export const Projects = () => {
       githubUrl: "",
     },
     {
-      title: "FXDX : DeFi Yield Aggregator",
+      title: "FXDX : Dex Aggregator",
       description:
         "Automatically optimizes returns across DeFi platforms with real-time analytics, rebalancing strategies, and compound mechanisms.",
       metrics: { dexs: "6", users: "50K+" },
