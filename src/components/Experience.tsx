@@ -29,7 +29,7 @@ export const Experience = () => {
         "Engineered smart contracts in solana for meme tokens using the Solana's SPL token standarad  ",
         "Engineered smart contracts for perp dex with infinte listing in solidity getting $ 5B+ volume  with 100k + users ",
         "Designed and implemented microservices in Golang for (Price Keeper, ADL Handler and Liquidation Handler ",
-        "Integrated Privy to implement ERC-4337 account abstraction, enabling seamless user onboarding with gasless transactions and email-based wallet creation. "
+        "Integrated Privy to implement ERC-4337 account abstraction, enabling seamless user onboarding with gasless transactions and email and telegram-based wallet creation. "
         
       ],
       technologies: ["Solidity", "Solana", "Cosmwasm", "TypeScript", "React", "AWS", "Golang" , "Subgraphs ", "Privy"],
